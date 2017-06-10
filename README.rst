@@ -1,5 +1,11 @@
+TrekAvenue Backend
+==================
+
+Backend is built upon python eve framework. 
+
+********
 Eve-Demo
-========
+********
 
 A fully featured RESTful Web API powered by Eve_. With Eve setting up an API is
 very simple. You just need a launch script (run.py_) and a configuration file
